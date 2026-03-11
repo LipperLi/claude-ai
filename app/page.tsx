@@ -39,7 +39,7 @@ export default function Home() {
           />
         </div>
         <h1 className="text-6xl font-bold text-white tracking-tight">
-          Claude{" "}
+          OpenClaw{" "}
           <span className="text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-pink-500">
             AI
           </span>
